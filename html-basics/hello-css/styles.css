@@ -1,0 +1,45 @@
+body {
+  color: #414141; /* Dark grey */
+  background-color: #eeeeee; /* Light grey */
+}
+
+h1,
+h2,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  text-align: left;
+}
+
+em {
+  font-weight: bold;
+  font-style: normal;
+}
+
+strong {
+  font-weight: normal;
+  font-style: italic;
+}
