@@ -1,0 +1,50 @@
+.page {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.synopsis {
+    color: #7E8184;
+    font-style: italic;
+}
+
+.synopsis div .bold em {
+    font-weight: bold;
+}
+
+.button-cta {
+    display: block;
+    color: #fff;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 15px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.button-cta--blue {
+    color: #fff;
+    background-color: #5995DA;
+}
+
+.button-cta--red {
+    color: white;
+    background-color: red;
+}
+
+.call-to-action {
+    font-style: italic;
+    background-color: #EEB75A;
+}
+
+.call-to-action:link,
+.call-to-action:visited {
+    background-color: yellow;
+}
+
+#button-submit {
+    background-color: #D55C5F;
+}

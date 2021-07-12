@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+h1, p {
+    background-color: #DDE0E3;
+}
+
+em, strong {
+    background-color: #B2D6FF;
+    display: inline; /* Default style */
+}
+
+h1 {
+    padding: 50px;
+    border: 1px dashed #5D6063;
+    margin-bottom: 60px;
+}
+
+strong {
+    margin: 50px;
+}
+
+div {
+    color: #fff;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 15px;
+    width: 200px;
+    margin: 0 auto;
+}
